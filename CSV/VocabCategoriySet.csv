@@ -1,0 +1,173 @@
+ID;ShortName;Label
+1;MA;martial arts term
+2;X;rude or X-rated term (not displayed in educational software)
+3;abbr;abbreviation
+4;adj-i;adjective (keiyoushi)
+5;adj-ix;adjective (keiyoushi) - yoi/ii class
+6;adj-na;adjectival nouns or quasi-adjectives (keiyodoshi)
+7;adj-no;'nouns which may take the genitive case particle `no'''
+8;adj-pn;pre-noun adjectival (rentaishi)
+9;adj-t;'`taru'' adjective'
+10;adj-f;noun or verb acting prenominally
+11;adv;adverb (fukushi)
+12;adv-to;'adverb taking the `to'' particle'
+13;arch;archaism
+14;ateji;ateji (phonetic) reading
+15;aux;auxiliary
+16;aux-v;auxiliary verb
+17;aux-adj;auxiliary adjective
+18;Buddh;Buddhist term
+19;chem;chemistry term
+20;chn;'children''s language'
+21;col;colloquialism
+22;comp;computer terminology
+23;conj;conjunction
+24;cop-da;copula
+25;ctr;counter
+26;derog;derogatory
+27;eK;exclusively kanji
+28;ek;exclusively kana
+29;exp;expressions (phrases, clauses, etc.)
+30;fam;familiar language
+31;fem;female term or language
+32;food;food term
+33;geom;geometry term
+34;gikun;gikun (meaning as reading) or jukujikun (special kanji reading)
+35;hon;honorific or respectful (sonkeigo) language
+36;hum;humble (kenjougo) language
+37;iK;word containing irregular kanji usage
+38;id;idiomatic expression
+39;ik;word containing irregular kana usage
+40;int;interjection (kandoushi)
+41;io;irregular okurigana usage
+42;iv;irregular verb
+43;ling;linguistics terminology
+44;m-sl;manga slang
+45;male;male term or language
+46;male-sl;male slang
+47;math;mathematics
+48;mil;military
+49;n;noun (common) (futsuumeishi)
+50;n-adv;adverbial noun (fukushitekimeishi)
+51;n-suf;noun, used as a suffix
+52;n-pref;noun, used as a prefix
+53;n-t;noun (temporal) (jisoumeishi)
+54;num;numeric
+55;oK;word containing out-dated kanji
+56;obs;obsolete term
+57;obsc;obscure term
+58;ok;out-dated or obsolete kana usage
+59;oik;old or irregular kana form
+60;on-mim;onomatopoeic or mimetic word
+61;pn;pronoun
+62;poet;poetical term
+63;pol;polite (teineigo) language
+64;pref;prefix
+65;proverb;proverb
+66;prt;particle
+67;physics;physics terminology
+68;rare;rare
+69;sens;sensitive
+70;sl;slang
+71;suf;suffix
+72;uK;word usually written using kanji alone
+73;uk;word usually written using kana alone
+74;unc;unclassified
+75;yoji;yojijukugo
+76;v1;Ichidan verb
+77;v1-s;Ichidan verb - kureru special class
+78;v2a-s;'Nidan verb with ''u'' ending (archaic)'
+79;v4h;'Yodan verb with `hu/fu'' ending (archaic)'
+80;v4r;'Yodan verb with `ru'' ending (archaic)'
+81;v5aru;Godan verb - -aru special class
+82;v5b;'Godan verb with `bu'' ending'
+83;v5g;'Godan verb with `gu'' ending'
+84;v5k;'Godan verb with `ku'' ending'
+85;v5k-s;Godan verb - Iku/Yuku special class
+86;v5m;'Godan verb with `mu'' ending'
+87;v5n;'Godan verb with `nu'' ending'
+88;v5r;'Godan verb with `ru'' ending'
+89;v5r-i;'Godan verb with `ru'' ending (irregular verb)'
+90;v5s;'Godan verb with `su'' ending'
+91;v5t;'Godan verb with `tsu'' ending'
+92;v5u;'Godan verb with `u'' ending'
+93;v5u-s;'Godan verb with `u'' ending (special class)'
+94;v5uru;Godan verb - Uru old class verb (old form of Eru)
+95;vz;Ichidan verb - zuru verb (alternative form of -jiru verbs)
+96;vi;intransitive verb
+97;vk;Kuru verb - special class
+98;vn;irregular nu verb
+99;vr;irregular ru verb, plain form ends with -ri
+100;vs;noun or participle which takes the aux. verb suru
+101;vs-c;su verb - precursor to the modern suru
+102;vs-s;suru verb - special class
+103;vs-i;suru verb - irregular
+104;kyb;Kyoto-ben
+105;osb;Osaka-ben
+106;ksb;Kansai-ben
+107;ktb;Kantou-ben
+108;tsb;Tosa-ben
+109;thb;Touhoku-ben
+110;tsug;Tsugaru-ben
+111;kyu;Kyuushuu-ben
+112;rkb;Ryuukyuu-ben
+113;nab;Nagano-ben
+114;hob;Hokkaido-ben
+115;vt;transitive verb
+116;vulg;vulgar expression or word
+117;adj-kari;'`kari'' adjective (archaic)'
+118;adj-ku;'`ku'' adjective (archaic)'
+119;adj-shiku;'`shiku'' adjective (archaic)'
+120;adj-nari;archaic/formal form of na-adjective
+121;n-pr;proper noun
+122;v-unspec;verb unspecified
+123;v4k;'Yodan verb with `ku'' ending (archaic)'
+124;v4g;'Yodan verb with `gu'' ending (archaic)'
+125;v4s;'Yodan verb with `su'' ending (archaic)'
+126;v4t;'Yodan verb with `tsu'' ending (archaic)'
+127;v4n;'Yodan verb with `nu'' ending (archaic)'
+128;v4b;'Yodan verb with `bu'' ending (archaic)'
+129;v4m;'Yodan verb with `mu'' ending (archaic)'
+130;v2k-k;'Nidan verb (upper class) with `ku'' ending (archaic)'
+131;v2g-k;'Nidan verb (upper class) with `gu'' ending (archaic)'
+132;v2t-k;'Nidan verb (upper class) with `tsu'' ending (archaic)'
+133;v2d-k;'Nidan verb (upper class) with `dzu'' ending (archaic)'
+134;v2h-k;'Nidan verb (upper class) with `hu/fu'' ending (archaic)'
+135;v2b-k;'Nidan verb (upper class) with `bu'' ending (archaic)'
+136;v2m-k;'Nidan verb (upper class) with `mu'' ending (archaic)'
+137;v2y-k;'Nidan verb (upper class) with `yu'' ending (archaic)'
+138;v2r-k;'Nidan verb (upper class) with `ru'' ending (archaic)'
+139;v2k-s;'Nidan verb (lower class) with `ku'' ending (archaic)'
+140;v2g-s;'Nidan verb (lower class) with `gu'' ending (archaic)'
+141;v2s-s;'Nidan verb (lower class) with `su'' ending (archaic)'
+142;v2z-s;'Nidan verb (lower class) with `zu'' ending (archaic)'
+143;v2t-s;'Nidan verb (lower class) with `tsu'' ending (archaic)'
+144;v2d-s;'Nidan verb (lower class) with `dzu'' ending (archaic)'
+145;v2n-s;'Nidan verb (lower class) with `nu'' ending (archaic)'
+146;v2h-s;'Nidan verb (lower class) with `hu/fu'' ending (archaic)'
+147;v2b-s;'Nidan verb (lower class) with `bu'' ending (archaic)'
+148;v2m-s;'Nidan verb (lower class) with `mu'' ending (archaic)'
+149;v2y-s;'Nidan verb (lower class) with `yu'' ending (archaic)'
+150;v2r-s;'Nidan verb (lower class) with `ru'' ending (archaic)'
+151;v2w-s;'Nidan verb (lower class) with `u'' ending and `we'' conjugation (archaic)'
+152;archit;architecture term
+153;astron;astronomy, etc. term
+154;baseb;baseball term
+155;biol;biology term
+156;bot;botany term
+157;bus;business term
+158;econ;economics term
+159;engr;engineering term
+160;finc;finance term
+161;geol;geology, etc. term
+162;law;law, etc. term
+163;mahj;mahjong term
+164;med;medicine, etc. term
+165;music;music term
+166;Shinto;Shinto term
+167;shogi;shogi term
+168;sports;sports term
+169;sumo;sumo term
+170;zool;zoology term
+171;joc;jocular, humorous term
+172;anat;anatomical term
